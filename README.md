@@ -16,8 +16,16 @@
 
 # Gists
 
-This repository provides a central reference point for @nomuus [gist created on Github](https://gist.github.com/nomuus). See individual gist  and respective comments for further details or license if applicable.
+This repository provides a central reference point for @nomuus [gist created on Github](https://gist.github.com/nomuus):
 
+- [Taborator to CSV](https://github.com/nomuus/gists#taborator-to-csv-taborator_csvpy)
+- [Zoom Debian Install Helper](https://github.com/nomuus/gists#zoom-debian-install-helper-install_zoom_debiansh)
+- [String Meta-Data](https://github.com/nomuus/gists#string-meta-data-meta-string-datapy)
+- [HTTP Header to JSON](https://github.com/nomuus/gists#http-header-to-json-http-header-to-jsonpy)
+
+See individual gist  and respective comments for further details or license if applicable.
+
+---
 
 ## Taborator to CSV: [taborator_csv.py](https://gist.github.com/nomuus/e3e6dd7019b3b4a23c7f64600c3384e4#file-taborator_csv-py)
 Converts exported data from @PortSwigger [Burp Suite Taborator extension](https://github.com/PortSwigger/taborator) by @hackvertor ([origin](https://github.com/hackvertor/taborator)) to CSV.
