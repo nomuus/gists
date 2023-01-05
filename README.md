@@ -26,8 +26,6 @@ This repository provides a central reference point for @nomuus [gist created on 
 - **Taborator to CSV** // [doc](./doc/taborator_csv.py.md) :: [gist](https://gist.github.com/nomuus/e3e6dd7019b3b4a23c7f64600c3384e4#file-taborator_csv-py)
 - **Zoom Debian Install Helper** // [doc](./doc/install_zoom_debian.sh.md) :: [gist](https://gist.github.com/nomuus/777152e79f4a8bc176fcded05bd10d26#file-install_zoom_debian-sh)
 
-- **changeme** // [doc]() :: [gist]()
-
 See individual gist and respective comments for further details or license if applicable.
 
 # Copyright
